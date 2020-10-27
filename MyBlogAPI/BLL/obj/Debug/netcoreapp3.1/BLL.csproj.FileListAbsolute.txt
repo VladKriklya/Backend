@@ -1,0 +1,9 @@
+C:\Users\Acer\source\repos\MyBlogAPI\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\Acer\source\repos\MyBlogAPI\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Acer\source\repos\MyBlogAPI\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Acer\source\repos\MyBlogAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\MyBlogAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\Acer\source\repos\MyBlogAPI\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Acer\source\repos\MyBlogAPI\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Acer\source\repos\MyBlogAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MyBlogAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
